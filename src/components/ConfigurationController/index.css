@@ -1,0 +1,31 @@
+/* Write your CSS here */
+* {
+  margin: 0;
+  font-family: 'roboto';
+  /* border: 1px solid black; */
+}
+.configuration-bg-container {
+  background-color: #475569;
+  margin: 0;
+  padding: 2% 5%;
+}
+.configuration-heading {
+  font-size: 45px;
+  font-weight: 600;
+  color: white;
+}
+.input-container {
+  display: flex;
+  align-items: center;
+  margin-top: 25px;
+}
+.check-box-input {
+  height: 17px;
+  width: 17px;
+}
+.labels {
+  font-size: 17px;
+  color: white;
+  font-weight: 500;
+  margin-left: 13px;
+}
